@@ -163,7 +163,8 @@ TRANSLATIONS += translations/softpro_de.ts\
     translations/softpro_ru.ts\
     translations/softpro_cs.ts\
     translations/softpro_ua.ts\
-    translations/softpro_hy.ts
+    translations/softpro_hy.ts\
+    translations/softpro_es_mx.ts
 CODECFORTR = UTF-8
 RESOURCES += softprojector.qrc
 
